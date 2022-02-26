@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "8582d059c146b19a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c680eb9a01db807",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adfd7e6064684c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50aa74c84f73626",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81f90dddc23fd59c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "61fde3fa3c4de98b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0c3dde4e86aee00",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc26b1acd7281e51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82cae9b9a3d29ef1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8c680eb9a01db807",
+  "lastOpenFiles": [
+    "Lore/Species/Golems.md",
+    "Lore/Species/nanite swarms.md",
+    "Lore/Species/Mantis.md",
+    "Lore/Magic/magic types/Black Hole.md",
+    "Lore/Species/Blobs.md",
+    "Lore/Species/Shifters.md",
+    "Lore/Species/Human.md",
+    "Lore/Factions/Empire.md",
+    "Lore/Magic/Artifacts/Emperor's Will.md",
+    "Lore/Factions/Mantis Empire.md"
+  ]
+}

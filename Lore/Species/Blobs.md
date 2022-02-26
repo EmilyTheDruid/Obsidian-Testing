@@ -1,0 +1,1 @@
+Sentient slimes, doesn't speak, uses pheremones to communicate, translators do exist though, their ships are full of narrow pipes they squirm through and buttons activated via pressure

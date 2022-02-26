@@ -1,0 +1,1 @@
+think diet Klingons but a bit smarter

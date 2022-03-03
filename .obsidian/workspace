@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lore/characters/Main Character.md",
+            "file": "Lore/characters/Percy.md",
             "mode": "source",
             "source": false
           }
@@ -27,14 +27,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81f90dddc23fd59c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "61fde3fa3c4de98b",
             "type": "leaf",
             "state": {
@@ -47,6 +39,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "2b19ea7d2142ebde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
             }
           }
         ]
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/characters/Main Character.md",
+                "file": "Lore/characters/Percy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d2d74c4a861405c0",
   "lastOpenFiles": [
-    "Lore/characters/Main Character.md",
     "Lore/characters/Percy.md",
+    "Lore/characters/Main Character.md",
+    "Lore/Magic/magic types/Star.md",
+    "Lore/Magic/magic types/Space.md",
+    "Lore/Magic/magic types/Black Hole.md",
+    "Lore/Timeline.md",
+    "Lore/Planets/Bosca Láidir.md",
+    "Lore/Planets/Gaineamh.md",
     "Lore/characters/Amelia.md",
-    "Lore/characters/Riley.md",
-    "Lore/characters/Princess.md",
-    "Lore/characters/Emperor.md",
-    "Lore/characters/leannan sidhe.md",
-    "Lore/Important Things/Princess's Rebirth.md",
-    "Lore/Important Things/Siege of thing.md",
-    "Lore/Important Things/Seige of ina aonar.md"
+    "Lore/characters/Riley.md"
   ]
 }

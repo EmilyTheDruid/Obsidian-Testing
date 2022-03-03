@@ -2,7 +2,11 @@ magic type: [[Star]]
 
 pretty much a blank slate
 
-an architect major
+an archeology major
 
 hobbies:
 
+
+possible (default) names:
+Réalta
+Haven

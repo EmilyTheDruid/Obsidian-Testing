@@ -18,4 +18,11 @@ crystals can be used for:
 * extra engine speed
 * teleporters
 
+Fancy image:
+![[space magic.png]]
+
+Simplified image:
+![[space_simple.png]]
+
+
 [[Riley]]

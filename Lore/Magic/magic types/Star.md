@@ -18,6 +18,13 @@ crystals can be used for:
 * lasers
 * extra power
 
+Fancy image:
+![[star magic.png]]
+
+Simplified image:
+![[star_simple.png]]
+
+
 Characters:
 * [[Princess]]
 * [[Main Character]]

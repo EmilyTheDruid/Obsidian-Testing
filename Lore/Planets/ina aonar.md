@@ -1,0 +1,1 @@
+Home planet of [[Percy]], he is the sole inhabitant after its destruction

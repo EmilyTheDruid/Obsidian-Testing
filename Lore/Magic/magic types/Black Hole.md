@@ -21,6 +21,14 @@ crystals can be used for:
 * gravity weapons
 * singularity weapons
 * cloaking (bending light)
+
+Fancy image:
+![[black hole magic.png]]
+
+Simplified image:
+![[blackhole_simple.png]]
+
+
  
  [[Emperor]]  [[Blackhole Blade]]
  

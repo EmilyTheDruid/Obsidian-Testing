@@ -1,0 +1,1 @@
+The [[Princess]] was reborn after getting killed by a powerful laser during the [[Siege of thing]]

@@ -1,0 +1,20 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "Lore": [
+      "Lore/characters",
+      "Lore/Factions",
+      "Lore/Important Things",
+      "Lore/Magic",
+      "Lore/Misc info",
+      "Lore/Planets",
+      "Lore/Plot.md",
+      "Lore/Shitposts.md",
+      "Lore/Species"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000
+}

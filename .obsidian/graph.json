@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -41,18 +41,46 @@
         "a": 1,
         "rgb": 14718802
       }
+    },
+    {
+      "query": "path:Lore/Planets",
+      "color": {
+        "a": 1,
+        "rgb": 10965728
+      }
+    },
+    {
+      "query": "path:Lore/Plot",
+      "color": {
+        "a": 1,
+        "rgb": 14024811
+      }
+    },
+    {
+      "query": "path:\"Lore/Important Things\"",
+      "color": {
+        "a": 1,
+        "rgb": 2335488
+      }
+    },
+    {
+      "query": "path:Gameplay/Battles",
+      "color": {
+        "a": 1,
+        "rgb": 6381921
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
+  "textFadeMultiplier": -1.4,
   "nodeSizeMultiplier": 0.820588235294118,
-  "lineSizeMultiplier": 1.65647058823529,
+  "lineSizeMultiplier": 0.4675,
   "collapse-forces": false,
-  "centerStrength": 0.494117647058824,
-  "repelStrength": 9.41176470588235,
-  "linkStrength": 0.470588235294118,
-  "linkDistance": 224,
-  "scale": 0.5087618855792604,
-  "close": false
+  "centerStrength": 0.488235294117647,
+  "repelStrength": 10.9411764705882,
+  "linkStrength": 0.5,
+  "linkDistance": 30,
+  "scale": 0.5931983050661779,
+  "close": true
 }

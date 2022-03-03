@@ -17,5 +17,12 @@ crystals can be used for:
 * Life support
 * med bays
 
+Fancy image:
+![[planet magic.png]]
 
-[[Amelia]], princess's armor
+Simplified image:
+![[planet_simple.png]]
+
+
+
+[[Amelia]]

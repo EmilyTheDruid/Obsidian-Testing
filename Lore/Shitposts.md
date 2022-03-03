@@ -1,0 +1,3 @@
+After the great irish reunification of 2057, and the subsequent invention of faster than light travel, ireland became the dominant super power on earth, and eventually all of earth united under the irish flag once other species were founded. As such a majority of places/people have irish names
+
+person complaining about how hard it is to display the space symbol in low definition in some historic text (its me im complaining)

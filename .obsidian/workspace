@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8c680eb9a01db807",
+        "id": "d2d74c4a861405c0",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Lore/characters/Main Character.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lore/characters/Main Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c680eb9a01db807",
+  "active": "d2d74c4a861405c0",
   "lastOpenFiles": [
-    "Lore/Species/Golems.md",
-    "Lore/Species/nanite swarms.md",
-    "Lore/Species/Mantis.md",
-    "Lore/Magic/magic types/Black Hole.md",
-    "Lore/Species/Blobs.md",
-    "Lore/Species/Shifters.md",
-    "Lore/Species/Human.md",
-    "Lore/Factions/Empire.md",
-    "Lore/Magic/Artifacts/Emperor's Will.md",
-    "Lore/Factions/Mantis Empire.md"
+    "Lore/characters/Main Character.md",
+    "Lore/characters/Percy.md",
+    "Lore/characters/Amelia.md",
+    "Lore/characters/Riley.md",
+    "Lore/characters/Princess.md",
+    "Lore/characters/Emperor.md",
+    "Lore/characters/leannan sidhe.md",
+    "Lore/Important Things/Princess's Rebirth.md",
+    "Lore/Important Things/Siege of thing.md",
+    "Lore/Important Things/Seige of ina aonar.md"
   ]
 }

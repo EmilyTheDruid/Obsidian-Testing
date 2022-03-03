@@ -1,0 +1,1 @@
+The Empire has stated that The [[Emperor]] is still out in the universe, conquering nearby planets, however a rumor was started that he was cryogenically frozen, or locked away somewhere, and that the [[princess]] was defeated by the emperor. at the cost of [[leannan sidhe]]'s life

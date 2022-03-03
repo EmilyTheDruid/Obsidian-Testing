@@ -13,4 +13,4 @@ human experimentation by a family member trying to save him and he's the only on
 ## Quotes
 "It's just an engine, as long as the fuel flow is stabilized and the ignition doesn't propagate to the fuel chamber you're all good"
 
-""
+"Listen, with Technology everything works the way its supposed to as long as everything is in its proper order"

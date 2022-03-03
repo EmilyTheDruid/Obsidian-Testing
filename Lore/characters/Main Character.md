@@ -9,4 +9,5 @@ hobbies:
 
 possible (default) names:
 Réalta
+Lux
 Haven

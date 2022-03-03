@@ -18,6 +18,7 @@ crystals can be used for:
 * lasers
 * extra power
 
+
 Fancy image:
 ![[star magic.png]]
 
